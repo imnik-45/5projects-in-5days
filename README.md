@@ -3,6 +3,8 @@
 - 5 Small projects in 5 days.
 - Everything in Vanilla Js. 😍
 
+> Note: Movie App not a part of this project set.It is still in making.
+
 <hr>
 
 
